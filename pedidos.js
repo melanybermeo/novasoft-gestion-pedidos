@@ -14,4 +14,4 @@ function mostrarPedidos() {
   });
 }
 
-document.addEventListener("DOMContentLoaded", mostrarPedidos);
+document.addEventListener("DOMContentLoaded", mostrarPedido);
