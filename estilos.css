@@ -29,3 +29,12 @@ footer {
   color: #777;
   font-size: 0.9em;
 }
+#buscador {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+  max-width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
